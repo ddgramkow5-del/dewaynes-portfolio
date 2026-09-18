@@ -1,2 +1,2 @@
-# dewaynes-portfolio
+# dewaynesGramkow-portfolio
 info about me
